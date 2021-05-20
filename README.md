@@ -1,4 +1,7 @@
 # AILearning
+
+Full app demo video on Youtube - https://youtu.be/RVF-8pv1s5Y
+
 Solution pack for mobile app AI Learning
 
 To install app in your Microsoft 365 tenant 
